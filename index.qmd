@@ -1,0 +1,9 @@
+---
+title: "BioMolic"
+format: 
+  html:
+    include-in-header: hero-image.html
+---
+
+## Welcome to my personal blog
+

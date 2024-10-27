@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "BioMolic"
+  open-graph:
+    image: Images/avatar.png
+    image-alt: "Iceland logo"
+  navbar:
+    logo: Images/avatar.png
+    background: "#1A334A"
+    foreground: "#27E6EC"
+    search: true
+    right:
+      - href: index.qmd
+        icon: house-door-fill
+        text: " "
+      - href: about.qmd
+        text: About me
+      - href: research.qmd
+        text: Research
+      - href: blog.qmd
+        text: Blog
+      - icon: github
+        href: https://github.com/mgomezv26
+      - icon: linkedin
+        href: https://www.linkedin.com/in/monicagomezvadillo/
+      - icon: twitter
+        href: https://x.com/BioMolic
+
+
+format:
+  html:
+    theme: #Sketchy
+      light: Sketchy
+      dark: [Sketchy, theme-dark.scss]
+    css: styles.css
+    toc: true
+
+
+

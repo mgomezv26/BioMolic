@@ -1,0 +1,26 @@
+---
+title: "Mónica Gómez-Vadillo"
+image: Images/avatar.png
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://x.com/BioMolic
+    - icon: github
+      text: Github
+      href: https://github.com/mgomezv26
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/monicagomezvadillo/
+---
+
+## About me
+
+I’m currently working on my doctoral thesis at the Department of Biogeography and Global Change at the National Museum of Natural Sciences (CSIC). Previously, I worked as a data scientist in the energy sector, and I have academic backgrounds in Biology from URJC, a Master’s in Ecology from UAM, and a Master’s in Data Science and Business Analytics from IMF Smart Education.
+
+My passion for research, particularly in biogeography, ecology, and data science, stems from my childhood. Additionally, I strongly believe in the importance of science communication. Without effectively sharing knowledge with the public, scientific advancements lose their impact. That’s why I’ve been contributing to the science communication blog Ecotoxsan for several years. Now, I am excited to embark on my own blog.
+
+Thanks for reading!

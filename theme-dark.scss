@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+// Colores de fondo y texto base
+$body-bg: #192229; // Este es el color de fondo del cuerpo del documento
+$body-color: #D0D7E1; // color del texto en el cuerpo del documento.
+$link-color: #27E6EC; // color de los enlaces en el texto.
+
+// Bloques de código
+$code-block-bg-alpha: -.8; //para ajustar la transparencia del fondo de los bloques
+$code-color: #75AADB; //color del texto dentro de los bloques de código.
+
+// Otros ajustes
+$navbar-bg: #192229; //color del texto dentro de los bloques de código.
+$navbar-color: #27E6EC; //color del texto en la barra de navegación.
+
+// Paleta de colores utilizada
+:root {
+    --color-1: #1A334A;
+    --color-2: #1E536E;
+    --color-3: #18A3B7;
+    --color-4: #27E6EC;
+    --color-5: #D0D7E1;
+    --color-6: #192229;
+  }
