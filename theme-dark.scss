@@ -1,18 +1,18 @@
 /*-- scss:defaults --*/
 // Colores de fondo y texto base
-$body-bg: #192229; // Este es el color de fondo del cuerpo del documento
+$body-bg: #1A334A; // Este es el color del fondo en modo oscuro.
 $body-color: #D0D7E1; // color del texto en el cuerpo del documento.
-$link-color: #27E6EC; // color de los enlaces en el texto.
+$link-color: #63B3ED; // color de los enlaces en el texto.
 
 // Bloques de código
 $code-block-bg-alpha: -.8; //para ajustar la transparencia del fondo de los bloques
-$code-color: #75AADB; //color del texto dentro de los bloques de código.
+$code-color: #63B3ED; //color del texto dentro de los bloques de código.
 
 // Otros ajustes
-$navbar-bg: #192229; //color del texto dentro de los bloques de código.
-$navbar-color: #27E6EC; //color del texto en la barra de navegación.
+$navbar-bg: #1E4E79; //color del texto dentro de los bloques de código.
+$navbar-color: #FFFFFF; //color del texto en la barra de navegación.
 
-// Paleta de colores utilizada
+// Paleta de colores antigua
 :root {
     --color-1: #1A334A;
     --color-2: #1E536E;
@@ -21,3 +21,21 @@ $navbar-color: #27E6EC; //color del texto en la barra de navegación.
     --color-5: #D0D7E1;
     --color-6: #192229;
   }
+
+// Paleta de colores modo claro
+:root {
+  --color-1: #EAF6FF; // Fondo principal
+  --color-2: #2B6CB0; // Barra de navegación
+  --color-3: #FFFFFF; // Texto en la barra
+  --color-4: #1E4E79; // Enlaces activos
+  --color-5: #38B2AC; // Botones o detalles secundarios
+}
+
+// Paleta de colores modo oscuro
+:root {
+  --color-1: #1A202C; // Fondo principal
+  --color-2: #0b0b0c; // Barra de navegación
+  --color-3: #CBD5E0; // Texto en la barra
+  --color-4: #63B3ED; // Enlaces activos
+  --color-5: #38B2AC; // Botones o detalles secundarios
+}

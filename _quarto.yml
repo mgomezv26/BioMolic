@@ -9,8 +9,8 @@ website:
     image-alt: "Iceland logo"
   navbar:
     logo: Images/avatar.png
-    background: "#1A334A"
-    foreground: "#27E6EC"
+    background: "#1E4E79"
+    foreground: "#FFFFFF"
     search: true
     right:
       - href: index.qmd
