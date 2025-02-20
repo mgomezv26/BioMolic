@@ -3,8 +3,6 @@ title: "Mapas de distribución geográfica de Odonatos de Europa a partir de Atl
 image: Riqueza_Odonatos.png
 ---
 
-## Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online
-
 ![](Riqueza_Odonatos.png)
 
 Gómez Vadillo, M., Ronquillo, C., & Hortal, J. (2020). Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online.

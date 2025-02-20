@@ -5,8 +5,6 @@ image: land.jpg
 #   - ecoinformatics
 ---
 
-## Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes
-
 ![](land.jpg)
 
 Gómez-Vadillo, M., Mingarro, M., Ursul, G., & Wilson, R. J. (2022). Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes. Land, 11(11), 2022.
