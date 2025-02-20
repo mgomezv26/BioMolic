@@ -18,8 +18,8 @@ website:
         text: " "
       - href: about.qmd
         text: About me
-      - href: research.qmd
-        text: Research
+      - href: publications.qmd
+        text: Publications
       - href: blog.qmd
         text: Blog
       - icon: github
