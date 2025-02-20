@@ -10,5 +10,14 @@
   },
   "blog.qmd": {
     "blog.html": "01edd154"
+  },
+  "publications/GV_digital_csic_2020.qmd": {
+    "GV_digital_csic_2020.html": "9d35dada"
+  },
+  "publications/GV_land_2022.qmd": {
+    "GV_land_2022.html": "f549b24b"
+  },
+  "publications.qmd": {
+    "publications.html": "04310f08"
   }
 }
