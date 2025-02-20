@@ -1,6 +1,6 @@
 ---
 title: "Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online"
-image: land.jpg
+image: Riqueza_Odonatos.png
 ---
 
 ## Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online

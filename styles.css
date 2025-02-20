@@ -1,1 +1,15 @@
 /* css styles */
+/* Cambiar la fuente de toda la web */
+body {
+    font-family: "Lato", sans-serif;  /* Puedes cambiar "Lato" por otra fuente */
+}
+
+/* Cambiar la fuente de los encabezados */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Merriweather", serif;
+}
+
+/* Cambiar la fuente de la barra de navegación */
+.navbar {
+    font-family: "Montserrat", sans-serif;
+}
