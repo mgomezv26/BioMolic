@@ -1,0 +1,36 @@
+---
+title: "¿Sabes que es un odonato?"
+image: Images/odonato.jpg
+---
+![](Images/odonato.jpg)
+
+¿Sabes que es un odonato?
+
+Hoy me apetece hablaros un poco sobre los Odonatos. ¡¿Odo… que?! Os estaréis preguntando. Tranquilos, esa misma pregunta me han hecho todas las personas que me han preguntado a cerca de mi Trabajo Fin de Grado (TFG) o prácticas externas. Al parecer casi nadie sabe qué son los Odonatos y por eso mismo os vengo a hacer un breve resumen.
+
+Seguro que si sabéis lo que es una libélula, ¿verdad? Pues bien, los Odonatos son las libélulas y los caballitos de diablo. Estos insectos pertenecen al orden Odonata. Ahora viene la segunda gran pregunta que me hacen la mayoría ¿Qué es un caballito del diablo? Pues seguramente los hayáis visto muchas veces, pero os habréis pensado que eran libélulas.
+
+Los Odonatos, un orden de insectos, se dividen en dos subórdenes: Zygoptera (caballitos del diablo) y Anisoptera (libélulas).  No obstante existe un tercer suborden relicto Anisozygoptera, actualmente con dos especies en Asia (Dijkstra et al., 2013). Ppresentan una riqueza global relativamente alta, la mayor se da diversidad en los trópicos. En cambio, en la Región Paleártica la riqueza de especies es baja (Kalkman et al., 2008).
+
+![](Images/ecozone_palearctic.jpg)
+
+Ambos subórdenes presentan ciertas diferencias en cuanto a su morfología, comportamiento y ecofisiología. Podemos diferencias a los caballitos del diablo y las libélulas mediante sus alas, y la forma de éstas cuando están en reposo. Las libélulas descansan con las alas extendidas, y la base del ala trasera tiene mayor amplitud que la base del ala anterior. En cambio, los caballitos del diablo descansan con las alas juntas y las bases de las alas traseras y anteriores son similares entre sí (Askew, 2004).
+
+Además son insectos de agua dulce, por lo que están restringidos a las inmediaciones de hábitats lénticos (aguas continentales que no presentan flujo unidireccional persistente, por ejemplo: lagos, pantanos, etc.) o lóticos (aguas continentales con flujos persistentes en tiempo y dirección, como los ríos) (Hof et al., 2006). Son pocas las especies que toleran condiciones salobres (Kalkman et al., 2008). Las diferencias existentes entre ambos tipos de hábitat pueden influir en la distribución de las especies de odonatos. Por ejemplo, las especies de hábitat lénticos se caracterizan por tener una mayor capacidad de dispersión como respuesta a la menor persistencia espacial y temporal de estos hábitats (Grewe et al, 2012). Además, al tener mayor capacidad de dispersión tienden a presentar tamaños de rango de distribución geográfica más grandes. Por el contrario, las especies de hábitats lóticos no van a depender de una capacidad de dispersión elevada para persistir durante cambios en las condiciones climáticas, ya que en respuesta a las variaciones climáticas pueden moverse a lo largo de los ríos (Hof et al., 2008).
+
+¿Queréis que siga escribiendo más sobre los odonatos? ¿Queréis saber más sobre su distribución geográfica, y que determina dicha distribución? ¿Sabéis que en el pasado estos organismos llegaron a medir hasta 71 cm, os lo cuento en otro artículo?
+
+
+REFERENCIAS
+
+Askew, R.R. (2004). The Dragonflies of Europe (revised edition). Herley Books, Colchester, United Kindgdom.
+
+Dijkstra, K. D. B., Bechly, G., Bybee, S. M., Dow, R. A., Dumont, H. J., Fleck, G., … & May, M. L. (2013). The classification and diversity of dragonflies and damselflies (Odonata). In: Zhang, Z.-Q.(Ed.) Animal Biodiversity: An Outline of Higher-level Classification and Survey of Taxonomic Richness (Addenda 2013). Zootaxa, 3703: 36-45.
+
+Grewe, Y., Hof, C., Dehling, D.M., Brandl, R. & Brändle, M. (2012). Recent range shifts of  European dragonflies provide support for an inverse relationship between habitat predictability and dispersal. Global Ecology and Biogeography, 22: 403–409.
+
+Hof, C., M. Brändle & R. Brandl (2006). Lentic odonates have larger and more northern ranges than lotic species. Journal of Biogeography, 33: 63–70.
+
+Hof, C., Brändle, M., & Brandl, R. (2008). Latitudinal variation of diversity in European freshwater animals is not concordant across habitat types. Global Ecology and Biogeography, 17: 539-546.
+
+Kalkman, V.J., Clausnitzer. V., Dijkstra, K.D.B., Orr A.G., Paulson D.R., Tol J. (2008). Global  diversity of dragonflies (Odonata) in freshwater. Hydrobiologia, 595: 351–363.

@@ -19,5 +19,8 @@
   },
   "publications.qmd": {
     "publications.html": "04310f08"
+  },
+  "blog/odonato.qmd": {
+    "odonato.html": "7b34760f"
   }
 }

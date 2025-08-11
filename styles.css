@@ -1,43 +1,44 @@
-/* HERO a ancho completo, centrado y con overlay */
+/* HERO ancho completo, sin recortar (mantiene 2000x600 ≈ 0.3) */
 .quarto-title-block .quarto-title-banner {
-  width: 100vw; /* ocupa todo el viewport */
-  margin-left: calc(-50vw + 50%); /* rompe el margen del contenedor */
-  min-height: 600px; /* ajusta a la altura de tu imagen */
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  height: calc(100vw * 0.30);    /* 2000x600 => 600/2000 = 0.30 */
+  max-height: 600px;             /* no crece más que tu imagen original */
+  min-height: 240px;             /* altura mínima en móviles */
   background-position: center;
-  background-size: cover;
+  background-size: contain;      /* << muestra toda la imagen */
+  background-repeat: no-repeat;
+  background-color: #0f2a3b;     /* color de “barras” si sobran */
   position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  display: flex; flex-direction: column; justify-content: center;
   text-align: center;
-  padding: 56px 0;
 }
 
+/* Overlay suave para contraste */
 .quarto-title-block .quarto-title-banner::before {
-  content: "";
-  position: absolute; inset: 0;
-  background: rgba(0, 0, 0, 0.35); /* overlay general sobre la imagen */
+  content: ""; position: absolute; inset: 0;
+  background: rgba(0,0,0,0.30);
 }
 
-/* Caja para el texto */
+/* Caja de texto opaca (muy legible) */
 .quarto-title-block .title,
 .quarto-title-block .subtitle {
-  position: relative; /* sobre el overlay */
+  position: relative;
   display: inline-block;
-  background: rgba(0, 50, 100, 0.85); /* azul opaco con transparencia */
-  padding: 10px 20px;
-  margin: 5px 0;
-  border-radius: 8px;
+  margin: 6px 0;
+  padding: 10px 18px;
+  border-radius: 10px;
+  background: rgba(10, 60, 110, 0.90); /* azul opaco */
   color: #fff;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  text-shadow: 0 2px 8px rgba(0,0,0,0.35);
 }
 
-/* Ajustes estéticos opcionales */
-.quarto-title-block .title {
-  font-size: 2.2rem;
-  font-weight: bold;
-}
+.quarto-title-block .title   { font-size: 2.2rem; font-weight: 800; }
+.quarto-title-block .subtitle{ font-size: 1.15rem; font-weight: 500; }
 
-.quarto-title-block .subtitle {
-  font-size: 1.2rem;
+/* Responsive: en pantallas estrechas bajamos un poco la altura */
+@media (max-width: 768px){
+  .quarto-title-block .quarto-title-banner{ height: calc(100vw * 0.35); }
+  .quarto-title-block .title{ font-size: 1.7rem; }
+  .quarto-title-block .subtitle{ font-size: 1rem; }
 }

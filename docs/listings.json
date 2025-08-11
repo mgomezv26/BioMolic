@@ -5,5 +5,11 @@
       "/publications/GV_land_2022.html",
       "/publications/GV_digital_csic_2020.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/odonato.html"
+    ]
   }
 ]
