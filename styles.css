@@ -1,16 +1,43 @@
-/* css styles */
-/* Cambiar la fuente de toda la web */
-/* Cambiar la fuente de toda la web */
-body {
-    font-family: "Lato", sans-serif;  /* Puedes cambiar "Lato" por otra fuente */
+/* HERO a ancho completo, centrado y con overlay */
+.quarto-title-block .quarto-title-banner {
+  width: 100vw; /* ocupa todo el viewport */
+  margin-left: calc(-50vw + 50%); /* rompe el margen del contenedor */
+  min-height: 600px; /* ajusta a la altura de tu imagen */
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 56px 0;
 }
 
-/* Cambiar la fuente de los encabezados */
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Merriweather", serif;
+.quarto-title-block .quarto-title-banner::before {
+  content: "";
+  position: absolute; inset: 0;
+  background: rgba(0, 0, 0, 0.35); /* overlay general sobre la imagen */
 }
 
-/* Cambiar la fuente de la barra de navegación */
-.navbar {
-    font-family: "Merriweather", sans-serif;
+/* Caja para el texto */
+.quarto-title-block .title,
+.quarto-title-block .subtitle {
+  position: relative; /* sobre el overlay */
+  display: inline-block;
+  background: rgba(0, 50, 100, 0.85); /* azul opaco con transparencia */
+  padding: 10px 20px;
+  margin: 5px 0;
+  border-radius: 8px;
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+/* Ajustes estéticos opcionales */
+.quarto-title-block .title {
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+
+.quarto-title-block .subtitle {
+  font-size: 1.2rem;
 }

@@ -1,8 +1,9 @@
 ---
-title: "BioMolic"
-format: 
-  html:
-    include-in-header: hero-image.html
+title: "Mónica Gómez‑Vadillo"
+subtitle: "PhD Student (MNCN-CSIC) ·  Data Scientist · Biogeography and Macroecology · Science Outreach"
+page-layout: full
+title-block-banner: Images/Cabecera_Web_Base.jpg
+title-block-style: default
 ---
 
 ## Welcome to my personal blog

@@ -9,9 +9,6 @@ website:
     image-alt: "Iceland logo"
   navbar:
     logo: Images/avatar.png
-    background: "#1E4E79"
-    foreground: "#FFFFFF"
-    search: true
     right:
       - href: index.qmd
         icon: house-door-fill
@@ -32,11 +29,9 @@ website:
 
 format:
   html:
-    theme: #Sketchy
-      light: Sketchy
-      dark: [Sketchy, theme-dark.scss]
-    css: styles.css
-    toc: true
-
+    theme:
+      light: flatly
+      dark: darkly
+    toggle: true
 
 
