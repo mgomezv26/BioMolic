@@ -1,8 +1,9 @@
 ---
-title: "myblog"
+title: "Decoding Science"
 listing:
   contents: blog
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
+  fields: [image, title, description, date]
 ---

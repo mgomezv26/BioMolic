@@ -1,8 +1,10 @@
 ---
 title: "Mónica Gómez‑Vadillo"
-subtitle: "PhD Student (MNCN-CSIC) ·  Data Scientist · Biogeography and Macroecology · Science Outreach"
+subtitle: "PhD Student at MNCN-CSIC · Biogeography · Macroecology · Data Science"
 page-layout: full
-title-block-banner: Images/Cabecera_Web_Base.jpg
+title-block-banner: Images/curvas_nivel_edit.png
+#title-block-banner: Images/curvas_nivel.jpeg
+#title-block-banner: Images/hexagon_edit.jpg
 title-block-style: default
 ---
 
