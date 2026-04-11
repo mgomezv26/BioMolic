@@ -2,3 +2,6 @@
 /.quarto/
 
 **/*.quarto_ipynb
+.quarto/
+lock.quarto_preview
+*.qmd.json
