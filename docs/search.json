@@ -47,5 +47,47 @@
     "title": "Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes",
     "section": "",
     "text": "Gómez-Vadillo, M., Mingarro, M., Ursul, G., & Wilson, R. J. (2022). Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes. Land, 11(11), 2022.\nVulnerability of mountain ecosystems to climate change depends on the capacity of topographic variation to provide heterogeneous microclimates and rates of climatic change. Accurate methods are therefore needed to assess climate at spatial resolutions relevant to ecological responses and environmental management. Here, we evaluate a mechanistic microclimate model (30 m resolution; Microclima) and mesoclimate data (1 km; CHELSA) against in situ temperatures, finding that both capture (whilst somewhat underestimating) variation well in observed ground-level maxima along a mountain ridge in 2011-13. We apply the models to estimate ecological exposure to recent temperature changes for four mountain areas of the Iberian Peninsula, based on analogous and non-analogous monthly maxima in 1980–1989 versus 2010–2019. The microclimate model revealed fine-resolution exposure to non-analogous conditions that were concealed in mesoclimate data, although whether exposure was greater at the micro- or mesoscale (and hence the types of organisms or management decisions affected) depended on the topographic context of each mountain range. Habitat type influenced microclimatic exposure, and hence may provide opportunities for conservation adaptation. These results suggest that mechanistic models are potentially useful tools to assess exposure to climate change at spatial resolutions that permit understanding and management of biodiversity responses in mountain ecosystems."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "",
+    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
+  },
+  {
+    "objectID": "index.html#featured-areas",
+    "href": "index.html#featured-areas",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "Featured areas",
+    "text": "Featured areas\n\n\n\n🌍 Biogeography & Macroecology\nUnderstanding how environmental and spatial processes shape biodiversity patterns.\n\n\n\n🧬 Ecological Niches\nWorking with niche overlap, hypervolumes, and species co-occurrence.\n\n\n\n💻 Computational Ecology\nBuilding analytical pipelines and interactive tools for ecological research."
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Mónica Gómez‑Vadillo",
+    "section": "Latest posts",
+    "text": "Latest posts\n```{listing} contents: blog type: grid sort: “date desc” max-items: 3 fields: [image, title, description] categories: false"
+  },
+  {
+    "objectID": "index.html#research-data-and-scientific-communication",
+    "href": "index.html#research-data-and-scientific-communication",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "",
+    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
+  },
+  {
+    "objectID": "index.html#areas-of-work",
+    "href": "index.html#areas-of-work",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "Areas of work",
+    "text": "Areas of work\n\n\n\n🔎 Research\nI study biodiversity patterns, species distributions, and ecological niches across spatial scales, with a strong interest in macroecology and biogeography.\n\n\n\n📊 Data Science\nI use R, Python, and reproducible workflows to analyse ecological data and build interactive tools.\n\n\n\n📒 Science Communication\nI enjoy translating complex scientific ideas into accessible content through blog posts, outreach, and digital communication."
+  },
+  {
+    "objectID": "index.html#exploring-biodiversity-through-data-and-ecology",
+    "href": "index.html#exploring-biodiversity-through-data-and-ecology",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "",
+    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
   }
 ]

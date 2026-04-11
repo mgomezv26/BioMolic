@@ -1,12 +1,72 @@
 ---
-title: "Mónica Gómez‑Vadillo"
+title: "Mónica Gómez-Vadillo"
 subtitle: "PhD Student at MNCN-CSIC · Biogeography · Macroecology · Data Science"
 page-layout: full
 title-block-banner: Images/curvas_nivel_edit.png
-#title-block-banner: Images/curvas_nivel.jpeg
-#title-block-banner: Images/hexagon_edit.jpg
 title-block-style: default
 ---
 
-## Welcome to my personal blog
+::: home-intro
+# Hello to my personal blog 👋
 
+## Exploring biodiversity through data and ecology
+
+I am a PhD researcher working at the intersection of **biogeography**, **macroecology**, and **data science**.\
+This website brings together my research interests, scientific writing, and data-driven projects.
+:::
+
+## Areas of work
+
+::::::::: columns
+:::: {.column width="33%"}
+::: mini-card
+#### 🔎 Research
+
+I study biodiversity patterns, species distributions, and ecological niches across spatial scales, with a strong interest in macroecology and biogeography.
+:::
+::::
+
+:::: {.column width="33%"}
+::: mini-card
+#### 📊 Data Science
+
+I use R, Python, and reproducible workflows to analyse ecological data and build interactive tools.
+:::
+::::
+
+:::: {.column width="33%"}
+::: mini-card
+#### 📒 Science Communication
+
+I enjoy translating complex scientific ideas into accessible content through blog posts, outreach, and digital communication.
+:::
+::::
+:::::::::
+
+## Featured areas
+
+::::::::: columns
+:::: {.column width="33%"}
+::: mini-card
+#### **🌍 Biogeography & Macroecology**
+
+Understanding how environmental and spatial processes shape biodiversity patterns.
+:::
+::::
+
+:::: {.column width="33%"}
+::: mini-card
+#### **🧬 Ecological Niches**
+
+Working with niche overlap, hypervolumes, and species co-occurrence.
+:::
+::::
+
+:::: {.column width="33%"}
+::: mini-card
+#### **💻 Computational Ecology**
+
+Building analytical pipelines and interactive tools for ecological research.
+:::
+::::
+:::::::::
