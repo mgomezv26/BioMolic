@@ -4,7 +4,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/GV_digital_csic_2020.html",
@@ -14,11 +14,39 @@
     "text": "Gómez Vadillo, M., Ronquillo, C., & Hortal, J. (2020). Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online.\nDocumento elaborado durante las Prácticas curriculares del Grado de Biología, URJC, realizadas en el Departamento de Biogeografía y Cambio Global, Museo Nacional de Ciencias Naturales (CSIC), de Enero a Abril de 2020.\nEl objetivo principal de estas prácticas curriculares externas es desarrollar mapas de distribución de las especies de odonatos de Europa a partir de varias fuentes de información. Además, una vez homogeneizada la información y obtenidos dichos mapas, agregar su información para generar un mapa de riqueza de especies."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Decoding Science",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mónica Gómez-Vadillo",
     "section": "",
-    "text": "¿Sabes qué es un odonato?\n\n\nUna introducción sencilla al mundo de los odonatos.\n\n\n\nApr 11, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
+  },
+  {
+    "objectID": "index.html#exploring-biodiversity-through-data-and-ecology",
+    "href": "index.html#exploring-biodiversity-through-data-and-ecology",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "",
+    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
+  },
+  {
+    "objectID": "index.html#areas-of-work",
+    "href": "index.html#areas-of-work",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "Areas of work",
+    "text": "Areas of work\n\n\n\n🔎 Research\nI study biodiversity patterns, species distributions, and ecological niches across spatial scales, with a strong interest in macroecology and biogeography.\n\n\n\n📊 Data Science\nI use R, Python, and reproducible workflows to analyse ecological data and build interactive tools.\n\n\n\n📒 Science Communication\nI enjoy translating complex scientific ideas into accessible content through blog posts, outreach, and digital communication."
+  },
+  {
+    "objectID": "index.html#featured-areas",
+    "href": "index.html#featured-areas",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "Featured areas",
+    "text": "Featured areas\n\n\n\n🌍 Biogeography & Macroecology\nUnderstanding how environmental and spatial processes shape biodiversity patterns.\n\n\n\n🧬 Ecological Niches\nWorking with niche overlap, hypervolumes, and species co-occurrence.\n\n\n\n💻 Computational Ecology\nBuilding analytical pipelines and interactive tools for ecological research."
+  },
+  {
+    "objectID": "blog/odonato.html",
+    "href": "blog/odonato.html",
+    "title": "¿Sabes qué es un odonato?",
+    "section": "",
+    "text": "Hoy me apetece hablaros un poco sobre los Odonatos. ¡¿Odo… que?! Os estaréis preguntando. Tranquilos, esa misma pregunta me han hecho todas las personas que me han preguntado a cerca de mi Trabajo Fin de Grado (TFG) o prácticas externas. Al parecer casi nadie sabe qué son los Odonatos y por eso mismo os vengo a hacer un breve resumen.\nSeguro que si sabéis lo que es una libélula, ¿verdad? Pues bien, los Odonatos son las libélulas y los caballitos de diablo. Estos insectos pertenecen al orden Odonata. Ahora viene la segunda gran pregunta que me hacen la mayoría ¿Qué es un caballito del diablo? Pues seguramente los hayáis visto muchas veces, pero os habréis pensado que eran libélulas.\nLos Odonatos, un orden de insectos, se dividen en dos subórdenes: Zygoptera (caballitos del diablo) y Anisoptera (libélulas). No obstante existe un tercer suborden relicto Anisozygoptera, actualmente con dos especies en Asia (Dijkstra et al., 2013). Ppresentan una riqueza global relativamente alta, la mayor se da diversidad en los trópicos. En cambio, en la Región Paleártica la riqueza de especies es baja (Kalkman et al., 2008).\n\nAmbos subórdenes presentan ciertas diferencias en cuanto a su morfología, comportamiento y ecofisiología. Podemos diferencias a los caballitos del diablo y las libélulas mediante sus alas, y la forma de éstas cuando están en reposo. Las libélulas descansan con las alas extendidas, y la base del ala trasera tiene mayor amplitud que la base del ala anterior. En cambio, los caballitos del diablo descansan con las alas juntas y las bases de las alas traseras y anteriores son similares entre sí (Askew, 2004).\nAdemás son insectos de agua dulce, por lo que están restringidos a las inmediaciones de hábitats lénticos (aguas continentales que no presentan flujo unidireccional persistente, por ejemplo: lagos, pantanos, etc.) o lóticos (aguas continentales con flujos persistentes en tiempo y dirección, como los ríos) (Hof et al., 2006). Son pocas las especies que toleran condiciones salobres (Kalkman et al., 2008). Las diferencias existentes entre ambos tipos de hábitat pueden influir en la distribución de las especies de odonatos. Por ejemplo, las especies de hábitat lénticos se caracterizan por tener una mayor capacidad de dispersión como respuesta a la menor persistencia espacial y temporal de estos hábitats (Grewe et al, 2012). Además, al tener mayor capacidad de dispersión tienden a presentar tamaños de rango de distribución geográfica más grandes. Por el contrario, las especies de hábitats lóticos no van a depender de una capacidad de dispersión elevada para persistir durante cambios en las condiciones climáticas, ya que en respuesta a las variaciones climáticas pueden moverse a lo largo de los ríos (Hof et al., 2008).\n¿Queréis que siga escribiendo más sobre los odonatos? ¿Queréis saber más sobre su distribución geográfica, y que determina dicha distribución? ¿Sabéis que en el pasado estos organismos llegaron a medir hasta 71 cm, os lo cuento en otro artículo?\nREFERENCIAS\nAskew, R.R. (2004). The Dragonflies of Europe (revised edition). Herley Books, Colchester, United Kindgdom.\nDijkstra, K. D. B., Bechly, G., Bybee, S. M., Dow, R. A., Dumont, H. J., Fleck, G., … & May, M. L. (2013). The classification and diversity of dragonflies and damselflies (Odonata). In: Zhang, Z.-Q.(Ed.) Animal Biodiversity: An Outline of Higher-level Classification and Survey of Taxonomic Richness (Addenda 2013). Zootaxa, 3703: 36-45.\nGrewe, Y., Hof, C., Dehling, D.M., Brandl, R. & Brändle, M. (2012). Recent range shifts of European dragonflies provide support for an inverse relationship between habitat predictability and dispersal. Global Ecology and Biogeography, 22: 403–409.\nHof, C., M. Brändle & R. Brandl (2006). Lentic odonates have larger and more northern ranges than lotic species. Journal of Biogeography, 33: 63–70.\nHof, C., Brändle, M., & Brandl, R. (2008). Latitudinal variation of diversity in European freshwater animals is not concordant across habitat types. Global Ecology and Biogeography, 17: 539-546.\nKalkman, V.J., Clausnitzer. V., Dijkstra, K.D.B., Orr A.G., Paulson D.R., Tol J. (2008). Global diversity of dragonflies (Odonata) in freshwater. Hydrobiologia, 595: 351–363."
   },
   {
     "objectID": "about.html",
@@ -35,11 +63,18 @@
     "text": "I’m currently working on my doctoral thesis at the Department of Biogeography and Global Change at the National Museum of Natural Sciences (CSIC). Previously, I worked as a data scientist in the energy sector, and I have academic backgrounds in Biology from URJC, a Master’s in Ecology from UAM, and a Master’s in Data Science and Business Analytics from IMF Smart Education.\nMy passion for research, particularly in biogeography, ecology, and data science, stems from my childhood. Additionally, I strongly believe in the importance of science communication. Without effectively sharing knowledge with the public, scientific advancements lose their impact. That’s why I’ve been contributing to the science communication blog Ecotoxsan for several years. Now, I am excited to embark on my own blog.\nThanks for reading!"
   },
   {
-    "objectID": "blog/odonato.html",
-    "href": "blog/odonato.html",
-    "title": "¿Sabes qué es un odonato?",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Decoding Science",
     "section": "",
-    "text": "Hoy me apetece hablaros un poco sobre los Odonatos. ¡¿Odo… que?! Os estaréis preguntando. Tranquilos, esa misma pregunta me han hecho todas las personas que me han preguntado a cerca de mi Trabajo Fin de Grado (TFG) o prácticas externas. Al parecer casi nadie sabe qué son los Odonatos y por eso mismo os vengo a hacer un breve resumen.\nSeguro que si sabéis lo que es una libélula, ¿verdad? Pues bien, los Odonatos son las libélulas y los caballitos de diablo. Estos insectos pertenecen al orden Odonata. Ahora viene la segunda gran pregunta que me hacen la mayoría ¿Qué es un caballito del diablo? Pues seguramente los hayáis visto muchas veces, pero os habréis pensado que eran libélulas.\nLos Odonatos, un orden de insectos, se dividen en dos subórdenes: Zygoptera (caballitos del diablo) y Anisoptera (libélulas). No obstante existe un tercer suborden relicto Anisozygoptera, actualmente con dos especies en Asia (Dijkstra et al., 2013). Ppresentan una riqueza global relativamente alta, la mayor se da diversidad en los trópicos. En cambio, en la Región Paleártica la riqueza de especies es baja (Kalkman et al., 2008).\n\nAmbos subórdenes presentan ciertas diferencias en cuanto a su morfología, comportamiento y ecofisiología. Podemos diferencias a los caballitos del diablo y las libélulas mediante sus alas, y la forma de éstas cuando están en reposo. Las libélulas descansan con las alas extendidas, y la base del ala trasera tiene mayor amplitud que la base del ala anterior. En cambio, los caballitos del diablo descansan con las alas juntas y las bases de las alas traseras y anteriores son similares entre sí (Askew, 2004).\nAdemás son insectos de agua dulce, por lo que están restringidos a las inmediaciones de hábitats lénticos (aguas continentales que no presentan flujo unidireccional persistente, por ejemplo: lagos, pantanos, etc.) o lóticos (aguas continentales con flujos persistentes en tiempo y dirección, como los ríos) (Hof et al., 2006). Son pocas las especies que toleran condiciones salobres (Kalkman et al., 2008). Las diferencias existentes entre ambos tipos de hábitat pueden influir en la distribución de las especies de odonatos. Por ejemplo, las especies de hábitat lénticos se caracterizan por tener una mayor capacidad de dispersión como respuesta a la menor persistencia espacial y temporal de estos hábitats (Grewe et al, 2012). Además, al tener mayor capacidad de dispersión tienden a presentar tamaños de rango de distribución geográfica más grandes. Por el contrario, las especies de hábitats lóticos no van a depender de una capacidad de dispersión elevada para persistir durante cambios en las condiciones climáticas, ya que en respuesta a las variaciones climáticas pueden moverse a lo largo de los ríos (Hof et al., 2008).\n¿Queréis que siga escribiendo más sobre los odonatos? ¿Queréis saber más sobre su distribución geográfica, y que determina dicha distribución? ¿Sabéis que en el pasado estos organismos llegaron a medir hasta 71 cm, os lo cuento en otro artículo?\nREFERENCIAS\nAskew, R.R. (2004). The Dragonflies of Europe (revised edition). Herley Books, Colchester, United Kindgdom.\nDijkstra, K. D. B., Bechly, G., Bybee, S. M., Dow, R. A., Dumont, H. J., Fleck, G., … & May, M. L. (2013). The classification and diversity of dragonflies and damselflies (Odonata). In: Zhang, Z.-Q.(Ed.) Animal Biodiversity: An Outline of Higher-level Classification and Survey of Taxonomic Richness (Addenda 2013). Zootaxa, 3703: 36-45.\nGrewe, Y., Hof, C., Dehling, D.M., Brandl, R. & Brändle, M. (2012). Recent range shifts of European dragonflies provide support for an inverse relationship between habitat predictability and dispersal. Global Ecology and Biogeography, 22: 403–409.\nHof, C., M. Brändle & R. Brandl (2006). Lentic odonates have larger and more northern ranges than lotic species. Journal of Biogeography, 33: 63–70.\nHof, C., Brändle, M., & Brandl, R. (2008). Latitudinal variation of diversity in European freshwater animals is not concordant across habitat types. Global Ecology and Biogeography, 17: 539-546.\nKalkman, V.J., Clausnitzer. V., Dijkstra, K.D.B., Orr A.G., Paulson D.R., Tol J. (2008). Global diversity of dragonflies (Odonata) in freshwater. Hydrobiologia, 595: 351–363."
+    "text": "¿Sabes qué es un odonato?\n\n\nUna introducción sencilla al mundo de los odonatos.\n\n\n\nApr 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/GV_digital_csic_2020 copy.html",
+    "href": "publications/GV_digital_csic_2020 copy.html",
+    "title": "Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online",
+    "section": "",
+    "text": "Gómez Vadillo, M., Ronquillo, C., & Hortal, J. (2020). Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online.\nDocumento elaborado durante las Prácticas curriculares del Grado de Biología, URJC, realizadas en el Departamento de Biogeografía y Cambio Global, Museo Nacional de Ciencias Naturales (CSIC), de Enero a Abril de 2020.\nEl objetivo principal de estas prácticas curriculares externas es desarrollar mapas de distribución de las especies de odonatos de Europa a partir de varias fuentes de información. Además, una vez homogeneizada la información y obtenidos dichos mapas, agregar su información para generar un mapa de riqueza de especies."
   },
   {
     "objectID": "publications/GV_land_2022.html",
@@ -47,47 +82,5 @@
     "title": "Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes",
     "section": "",
     "text": "Gómez-Vadillo, M., Mingarro, M., Ursul, G., & Wilson, R. J. (2022). Assessing climate change exposure for the adaptation of conservation management: the importance of scale in mountain landscapes. Land, 11(11), 2022.\nVulnerability of mountain ecosystems to climate change depends on the capacity of topographic variation to provide heterogeneous microclimates and rates of climatic change. Accurate methods are therefore needed to assess climate at spatial resolutions relevant to ecological responses and environmental management. Here, we evaluate a mechanistic microclimate model (30 m resolution; Microclima) and mesoclimate data (1 km; CHELSA) against in situ temperatures, finding that both capture (whilst somewhat underestimating) variation well in observed ground-level maxima along a mountain ridge in 2011-13. We apply the models to estimate ecological exposure to recent temperature changes for four mountain areas of the Iberian Peninsula, based on analogous and non-analogous monthly maxima in 1980–1989 versus 2010–2019. The microclimate model revealed fine-resolution exposure to non-analogous conditions that were concealed in mesoclimate data, although whether exposure was greater at the micro- or mesoscale (and hence the types of organisms or management decisions affected) depended on the topographic context of each mountain range. Habitat type influenced microclimatic exposure, and hence may provide opportunities for conservation adaptation. These results suggest that mechanistic models are potentially useful tools to assess exposure to climate change at spatial resolutions that permit understanding and management of biodiversity responses in mountain ecosystems."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mónica Gómez-Vadillo",
-    "section": "",
-    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
-  },
-  {
-    "objectID": "index.html#featured-areas",
-    "href": "index.html#featured-areas",
-    "title": "Mónica Gómez-Vadillo",
-    "section": "Featured areas",
-    "text": "Featured areas\n\n\n\n🌍 Biogeography & Macroecology\nUnderstanding how environmental and spatial processes shape biodiversity patterns.\n\n\n\n🧬 Ecological Niches\nWorking with niche overlap, hypervolumes, and species co-occurrence.\n\n\n\n💻 Computational Ecology\nBuilding analytical pipelines and interactive tools for ecological research."
-  },
-  {
-    "objectID": "index.html#latest-posts",
-    "href": "index.html#latest-posts",
-    "title": "Mónica Gómez‑Vadillo",
-    "section": "Latest posts",
-    "text": "Latest posts\n```{listing} contents: blog type: grid sort: “date desc” max-items: 3 fields: [image, title, description] categories: false"
-  },
-  {
-    "objectID": "index.html#research-data-and-scientific-communication",
-    "href": "index.html#research-data-and-scientific-communication",
-    "title": "Mónica Gómez-Vadillo",
-    "section": "",
-    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
-  },
-  {
-    "objectID": "index.html#areas-of-work",
-    "href": "index.html#areas-of-work",
-    "title": "Mónica Gómez-Vadillo",
-    "section": "Areas of work",
-    "text": "Areas of work\n\n\n\n🔎 Research\nI study biodiversity patterns, species distributions, and ecological niches across spatial scales, with a strong interest in macroecology and biogeography.\n\n\n\n📊 Data Science\nI use R, Python, and reproducible workflows to analyse ecological data and build interactive tools.\n\n\n\n📒 Science Communication\nI enjoy translating complex scientific ideas into accessible content through blog posts, outreach, and digital communication."
-  },
-  {
-    "objectID": "index.html#exploring-biodiversity-through-data-and-ecology",
-    "href": "index.html#exploring-biodiversity-through-data-and-ecology",
-    "title": "Mónica Gómez-Vadillo",
-    "section": "",
-    "text": "I am a PhD researcher working at the intersection of biogeography, macroecology, and data science.\nThis website brings together my research interests, scientific writing, and data-driven projects."
   }
 ]

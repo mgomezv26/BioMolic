@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-00LQKZWDGR"
   title: "BioMolic"
   open-graph:
     image: Images/avatar.png
