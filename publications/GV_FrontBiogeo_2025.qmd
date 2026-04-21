@@ -1,6 +1,6 @@
 ---
 title: "Ice age, current climate, habitat availability, and the diversity of European dragonflies and damselflies."
-image: Riqueza_Odonatos.png
+image: Odonata_richness.png
 ---
 
 ![](Odonata_richness.png)
