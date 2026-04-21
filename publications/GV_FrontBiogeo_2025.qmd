@@ -1,9 +1,15 @@
 ---
 title: "Ice age, current climate, habitat availability, and the diversity of European dragonflies and damselflies."
 image: Odonata_richness.png
+date: 2025-06-25
+author: "M. Gómez-Vadillo"
+categories:
+  - Macroecology
+  - Climate change
+  - Biodiversity
 ---
 
-![](Odonata_richness.png)
+![](maps_richness.png)
 
 Gómez-Vadillo, M., Calatayud, J., Alves-Martins, F., Ronquillo, C., & Hortal, J. (2025). Ice age, current climate, habitat availability, and the diversity of European dragonflies and damselflies. Frontiers of Biogeography, 18, e136933.
 

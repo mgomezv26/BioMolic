@@ -1,6 +1,8 @@
 ---
 title: "Mapas de distribución geográfica de Odonatos de Europa a partir de Atlas de distribución y bases de datos online"
 image: Riqueza_Odonatos.png
+date: 2020-06-18
+author: "M. Gómez-Vadillo"
 ---
 
 ![](Riqueza_Odonatos.png)

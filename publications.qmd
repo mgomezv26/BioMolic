@@ -1,7 +1,11 @@
 ---
-title: "Publications"
 listing:
   contents: publications
   type: grid
   categories: false
+  sort: "date desc"
 ---
+
+listing:
+  contents: publications
+  sort: "date desc"
